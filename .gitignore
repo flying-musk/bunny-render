@@ -1,0 +1,14 @@
+# Generated meshes
+*.msh
+*.vtu
+
+# Render outputs
+frames/
+*.png
+*.mp4
+*.mov
+*.webm
+
+# Python cache
+__pycache__/
+*.pyc
