@@ -34,6 +34,8 @@ Stanford_Bunny.stl
 
 Each step exists for a **specific technical reason**, explained below.
 
+![Mesh Rendering Pipeline](flow-chart.png)
+
 ---
 
 ## Surface Meshing with Gmsh (`mesh_bunny_gmsh.py`)
